@@ -3,11 +3,13 @@
 I chose the poem Halloween Party by Kenn Nesbitt written in 2005. Source: When the Teacher Isn't Looking (2005)
 
 Poem Link:  
-[linked text](https://www.example.com)
+[Halloween Party](https://www.poetryfoundation.org/poems/47155/halloween-party)
 
 **2. How is the animation related to the text?**
 
-The undulating text resembles a dance at the Halloween party. Nesbitt recounted his costume as that of a Dracula with jet-black hair. Thus, the dancing black lines mirror the darkness of that hair. Coupled with a color palette of red, black, and white, it evokes the Dracula. Moreover, Halloween is steeped in enigma; initially, viewers don't see the entirety of the poem. As the mouse shifts from left to right, they unveil the concealed words beneath the shroud of mystery.
+The undulating text resembles a dance at the Halloween party. Nesbitt recounted his costume as that of a Dracula with jet-black hair. Thus, the dancing black lines mirror the darkness of that hair. Coupled with a color palette of red, black, and white, it evokes the Dracula.  
+
+Moreover, Halloween is steeped in enigma; initially, viewers don't see the entirety of the poem. As the mouse shifts from left to right, they unveil the concealed words beneath the shroud of mystery.
 
 **3. What were some of the challenges when implementing this exercise?**  
 
